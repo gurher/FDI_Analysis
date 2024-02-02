@@ -1,4 +1,4 @@
-# Provinces in Vietnam: Market Size, Labor Quality, and FDI Correlations
+# Economic Factors and FDI (Foreign Direct Investment) Correlations
 
 ## Overview
 
@@ -12,8 +12,4 @@ Welcome to the repository exploring the correlation between market size, labor q
 
 ## Contents
 
-- **Codebase:** Python scripts showcasing the implementation of Linear and Ridge Regression models, accompanied by detailed comments.
-
-- **Data:** Access to the dataset used in the analysis, encompassing market size, labor quality, and FDI data for various provinces in Vietnam.
-
-- **Results:** Documentation of results and insights derived from the regression analysis, providing a comprehensive understanding of the correlations among economic factors.
+- [Analysis Report](https://github.com/gurher/fdi-analysis/blob/main/Final_Project.ipynb)
