@@ -12,4 +12,4 @@ Welcome to the repository exploring the correlation between market size, labor q
 
 ## Contents
 
-- [Analysis Report](https://github.com/gurher/fdi-analysis/blob/main/Final_Project.ipynb)
+- [Analysis Report](https://github.com/gurher/fdi-analysis/blob/main/Final_Report.ipynb)
